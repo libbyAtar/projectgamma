@@ -10,6 +10,8 @@ public class class1 {
  * echo "# projectgamma" >> README.md
  * git init
  * git add README.md
+ * git add .
+ * git status
  * git commit -m "first commit"
  * git branch -M main
  * git remote add origin https://github.com/Berf21/projectgamma.git
